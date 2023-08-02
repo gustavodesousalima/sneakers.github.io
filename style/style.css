@@ -76,7 +76,7 @@ nav {
 
 
 .slider {
-    background: url(/img/backgroundSlider.jfif);
+    background: url(../img/backgroundSlider.jfif);
     background-size: 100%;
     background-repeat: no-repeat;
     clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 95%);
